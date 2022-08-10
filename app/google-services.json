@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "235635129720",
+    "firebase_url": "https://pedigo-b7420-default-rtdb.firebaseio.com",
+    "project_id": "pedigo-b7420",
+    "storage_bucket": "pedigo-b7420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235635129720:android:e13c07476fa756c2769c8d",
+        "android_client_info": {
+          "package_name": "com.devwithadi.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235635129720-734ngfp256ji1lt0vfhqvml3ad32qau5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRcfz85eYK3fxJTfnxdevOhVDlRdg2eaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235635129720-734ngfp256ji1lt0vfhqvml3ad32qau5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235635129720:android:a20ff38fe9cf1180769c8d",
+        "android_client_info": {
+          "package_name": "com.devwithadi.mediku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235635129720-9ri0k2sih8hjggvt3u3hshrgs8pvj70d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devwithadi.mediku",
+            "certificate_hash": "ab4a9814c963a7967fdecb56fe877f6b7dd23108"
+          }
+        },
+        {
+          "client_id": "235635129720-734ngfp256ji1lt0vfhqvml3ad32qau5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRcfz85eYK3fxJTfnxdevOhVDlRdg2eaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235635129720-734ngfp256ji1lt0vfhqvml3ad32qau5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
