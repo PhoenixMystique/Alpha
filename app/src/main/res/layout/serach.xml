@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="100dp"
     android:layout_weight="2"
-    android:background="#1B1A1A"
+    android:background="#FFFFFF"
     android:gravity="left|center_vertical"
     android:orientation="horizontal"
     android:padding="10dp">
@@ -32,7 +32,7 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_weight="1.6"
-        android:background="#1B1A1A"
+        android:background="#FFFFFF"
         android:orientation="vertical"
         android:showDividers="middle"
         android:weightSum="4">
@@ -44,8 +44,8 @@
             android:layout_weight="0.5"
             android:gravity="clip_vertical|center_vertical"
             android:hint="Full Name"
-            android:textColor="#FFFFFF"
-            android:textColorHint="#FFFFFF"
+            android:textColor="#000000"
+            android:textColorHint="#000000"
             android:textSize="14sp"></TextView>
 
         <LinearLayout
@@ -60,8 +60,8 @@
             android:layout_weight="0.5"
             android:gravity="center_vertical"
             android:hint="Email id"
-            android:textColor="#FFFFFF"
-            android:textColorHint="#FFFFFF"
+            android:textColor="#000000"
+            android:textColorHint="#000000"
             android:textSize="14sp"></TextView>
 
         <LinearLayout
@@ -75,8 +75,8 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:hint="Description"
-            android:textColor="#FFFFFF"
-            android:textColorHint="#FFFFFF"
+            android:textColor="#000000"
+            android:textColorHint="#000000"
             android:textSize="14sp"></TextView>
 
 

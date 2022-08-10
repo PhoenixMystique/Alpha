@@ -5,9 +5,11 @@
       <map>
         <entry key="..\:/Users/devwi/AndroidStudioProjects/Alpha/app/src/main/res/drawable/ic_baseline_person_add_24.xml" value="0.1" />
         <entry key="..\:/Users/devwi/AndroidStudioProjects/Alpha/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
-        <entry key="..\:/Users/devwi/AndroidStudioProjects/Alpha/app/src/main/res/layout/activity_main.xml" value="0.1953125" />
+        <entry key="..\:/Users/devwi/AndroidStudioProjects/Alpha/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/devwi/AndroidStudioProjects/Alpha/app/src/main/res/drawable/splash.xml" value="0.1" />
+        <entry key="..\:/Users/devwi/AndroidStudioProjects/Alpha/app/src/main/res/layout/activity_main.xml" value="0.16" />
         <entry key="..\:/Users/devwi/AndroidStudioProjects/Alpha/app/src/main/res/layout/activity_serach.xml" value="0.12" />
-        <entry key="..\:/Users/devwi/AndroidStudioProjects/Alpha/app/src/main/res/layout/serach.xml" value="0.67" />
+        <entry key="..\:/Users/devwi/AndroidStudioProjects/Alpha/app/src/main/res/layout/serach.xml" value="0.22" />
       </map>
     </option>
   </component>

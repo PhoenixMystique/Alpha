@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_weight="2"
-    android:background="#1B1A1A"
+    android:background="#FFFFFF"
     android:orientation="vertical"
     android:padding="10dp"
     tools:context=".Search">
@@ -16,8 +16,8 @@
         android:layout_height="60dp"
         android:layout_weight="0.4"
         android:hint="Search"
-        android:textColor="#FFFFFF"
-        android:textColorHint="#FFFFFF">
+        android:textColor="#000000"
+        android:textColorHint="#000000">
 
     </EditText>
 
@@ -38,11 +38,15 @@
             android:layout_height="wrap_content"
             android:layout_marginEnd="20dp"
             android:layout_marginBottom="20dp"
-            android:backgroundTint="#1BFFFFFF"
+            android:background="#9EB3B3B3"
+            android:backgroundTint="#9EB3B3B3"
+            android:backgroundTintMode="add"
             android:clickable="true"
-            app:backgroundTint="#00FFFFFF"
+            app:backgroundTint="#9E7A7A7A"
+            app:backgroundTintMode="add"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
+            app:rippleColor="#00FFFFFF"
             app:srcCompat="@drawable/ic_baseline_person_add_24" />
 
         <androidx.recyclerview.widget.RecyclerView
